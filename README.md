@@ -51,7 +51,7 @@
 
 <a href="https://marcusvilasboas.github.io/html-css/exercicios/ex018/fonte02.html" target="_blank" class="externo">Executar o exercício 018.2</a>
 
-<a href="https://marcusvilasboas.github.io/html-css/exercicios/ex019/selector01.html" target="_blank" class="externo">Executar o exercício 019</a>
+<a href="https://marcusvilasboas.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank" class="externo">Executar o exercício 019</a>
 
 <a href="https://marcusvilasboas.github.io/html-css/exercicios/ex020/hover.html" target="_blank" class="externo">Executar o exercício 020.1</a>
 
