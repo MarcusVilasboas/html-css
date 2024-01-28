@@ -68,6 +68,29 @@
         </ul>
     <li>Desafios</li>
         <ul>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d001/index.html" target="_blank" class="externo">Executar o desafio 001</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d002/index.html" target="_blank" class="externo">Executar o desafio 002</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d003/index.html" target="_blank" class="externo">Executar o desafio 003</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d004/index.html" target="_blank" class="externo">Executar o desafio 004 *Não foi executado</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d005/index.html" target="_blank" class="externo">Executar o desafio 005</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d006/index.html" target="_blank" class="externo">Executar o desafio 006</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d007/index.html" target="_blank" class="externo">Executar o desafio 007</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d008/index.html" target="_blank" class="externo">Executar o desafio 008</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d009/index.html" target="_blank" class="externo">Executar o desafio 009</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d010/android.html" target="_blank" class="externo">Executar o desafio 010.1</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d010/responsivo.html" target="_blank" class="externo">Executar o desafio 010.2</a></li>
+
             <li><a href="https://marcusvilasboas.github.io/projeto-android/index.html" target="_blank" class="externo">Abrir o site do projeto Android - Desafio 10</a></li>
         </ul>
 </ul>
