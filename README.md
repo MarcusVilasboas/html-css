@@ -65,6 +65,14 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" class="externo">Executar o exercício 021.2</a></li>
             
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" class="externo">Executar o exercício 021.3</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank" class="externo">Executar o exercício 022.1</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank" class="externo">Executar o exercício 022.2</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank" class="externo">Executar o exercício 022.3</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank" class="externo">Executar o exercício 022.4</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
