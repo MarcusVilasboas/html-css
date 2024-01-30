@@ -77,6 +77,8 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank" class="externo">Executar o exercício 022.5</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank" class="externo">Executar o exercício 022.6</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank" class="externo">Executar o exercício 022.7</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
