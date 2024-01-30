@@ -3,20 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Fundo fixo de tela</title>
     <style>
         body {
             height: 100vh;
-            background-color: black;
+            /* background-color: black;
             background-image: url("imagens/wallpaper002.jpg");
             background-position: center center;
             background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+
+            /* Shorthand - background
+                color > image > position > repeat > [size] > attachment
+               Obs.: o size não está funcionando nos navegadores.
+            */
+
+            background: black url("imagens/wallpaper002.jpg") center center no-repeat fixed;
             background-size: cover;
         }
 
         main {
             background-color: white;
-            width: 400px;
+            max-width: 400px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
@@ -27,6 +36,12 @@
 <body>
     <main>
         <h1>Teste de imagem de fundo</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam perferendis corrupti fugiat maxime adipisci provident deserunt perspiciatis laboriosam. Expedita dolorum explicabo cumque rem autem unde libero officiis ipsum quae recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae aperiam corrupti laudantium, aliquam odit natus harum, nam dolore quasi explicabo sed dolorum fuga doloremque distinctio debitis similique eligendi illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, molestias officia vitae inventore architecto perferendis quo fugiat doloremque atque, culpa numquam soluta sit iusto est ea sequi a consequuntur autem.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam perferendis corrupti fugiat maxime adipisci provident deserunt perspiciatis laboriosam. Expedita dolorum explicabo cumque rem autem unde libero officiis ipsum quae recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae aperiam corrupti laudantium, aliquam odit natus harum, nam dolore quasi explicabo sed dolorum fuga doloremque distinctio debitis similique eligendi illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, molestias officia vitae inventore architecto perferendis quo fugiat doloremque atque, culpa numquam soluta sit iusto est ea sequi a consequuntur autem.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam perferendis corrupti fugiat maxime adipisci provident deserunt perspiciatis laboriosam. Expedita dolorum explicabo cumque rem autem unde libero officiis ipsum quae recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae aperiam corrupti laudantium, aliquam odit natus harum, nam dolore quasi explicabo sed dolorum fuga doloremque distinctio debitis similique eligendi illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, molestias officia vitae inventore architecto perferendis quo fugiat doloremque atque, culpa numquam soluta sit iusto est ea sequi a consequuntur autem.</p>
+
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam perferendis corrupti fugiat maxime adipisci provident deserunt perspiciatis laboriosam. Expedita dolorum explicabo cumque rem autem unde libero officiis ipsum quae recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque vitae aperiam corrupti laudantium, aliquam odit natus harum, nam dolore quasi explicabo sed dolorum fuga doloremque distinctio debitis similique eligendi illo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, molestias officia vitae inventore architecto perferendis quo fugiat doloremque atque, culpa numquam soluta sit iusto est ea sequi a consequuntur autem.</p>
     </main>
 </body>
