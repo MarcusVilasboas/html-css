@@ -105,6 +105,8 @@
 
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d010/responsivo.html" target="_blank" class="externo">Executar o desafio 010.2</a></li>
 
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d011/index.html" target="_blank" class="externo">Executar o desafio 011 *Não foi executado</a></li>
+
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d012/index.html" target="_blank" class="externo">Executar o desafio 012</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/projeto-android/index.html" target="_blank" class="externo">Abrir o site do projeto Android - Desafio 10</a></li>
