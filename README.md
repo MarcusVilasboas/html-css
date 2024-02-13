@@ -120,7 +120,10 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d013/desafio13-1.html" target="_blank" class="externo">Executar o desafio 013.1</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d013/desafio13-2.html" target="_blank" class="externo">Executar o desafio 013.2</a></li>
+        </ul>
 
+    <li>Projetos</li>
+        <ul>
             <li><a href="https://marcusvilasboas.github.io/projeto-android/index.html" target="_blank" class="externo">Abrir o site do projeto Android - Desafio 10</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/projeto-cordel/index.html" target="_blank" class="externo">Abrir o site do projeto Cordel de Milton Duarte - Desafio 12</a></li>
