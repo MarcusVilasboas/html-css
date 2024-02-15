@@ -120,6 +120,8 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d013/desafio13-1.html" target="_blank" class="externo">Executar o desafio 013.1</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d013/desafio13-2.html" target="_blank" class="externo">Executar o desafio 013.2</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/desafios/d014/index.html" target="_blank" class="externo">Executar o desafio 014</a></li>
         </ul>
 
     <li>Projetos</li>
