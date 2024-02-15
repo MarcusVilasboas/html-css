@@ -87,6 +87,8 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex023/tabela003.html" target="_blank" class="externo">Executar o exercício 023.3</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex023/tabela004.html" target="_blank" class="externo">Executar o exercício 023.4</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex023/tabela005.html" target="_blank" class="externo">Executar o exercício 023.5</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
