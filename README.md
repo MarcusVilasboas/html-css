@@ -145,5 +145,7 @@
             <li><a href="https://marcusvilasboas.github.io/projeto-android/index.html" target="_blank" class="externo">Abrir o site do projeto Android - Desafio 10</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/projeto-cordel/index.html" target="_blank" class="externo">Abrir o site do projeto Cordel de Milton Duarte - Desafio 12</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/projeto-social/index.html" target="_blank" class="externo">Abrir o site do projeto Redes Sociais</a></li>
         </ul>
 </ul>
