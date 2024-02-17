@@ -97,6 +97,10 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe002.html" target="_blank" class="externo">Executar o exercício 024.2</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe003.html" target="_blank" class="externo">Executar o exercício 024.3</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe004.html" target="_blank" class="externo">Executar o exercício 024.4</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank" class="externo">Executar o exercício 024.5</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
