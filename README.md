@@ -103,6 +103,18 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank" class="externo">Executar o exercício 024.5</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank" class="externo">Executar o exercício 024.6</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form001.html" target="_blank" class="externo">Executar o exercício 025.1</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form002.html" target="_blank" class="externo">Executar o exercício 025.2</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form003.html" target="_blank" class="externo">Executar o exercício 025.3</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form004.html" target="_blank" class="externo">Executar o exercício 025.4</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form005.html" target="_blank" class="externo">Executar o exercício 025.5</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form006.html" target="_blank" class="externo">Executar o exercício 025.6</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
