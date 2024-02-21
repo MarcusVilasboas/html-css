@@ -115,6 +115,8 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form005.html" target="_blank" class="externo">Executar o exercício 025.5</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form006.html" target="_blank" class="externo">Executar o exercício 025.6</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex025/form007.html" target="_blank" class="externo">Executar o exercício 025.7</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
