@@ -127,6 +127,8 @@
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex026\mq001\index.html" target="_blank" class="externo">Executar o exercício 026.1</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex026\mq002\index.html" target="_blank" class="externo">Executar o exercício 026.2</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/html-css/exercicios/ex026\mq003\index.html" target="_blank" class="externo">Executar o exercício 026.3</a></li>
         </ul>
     <li>Desafios</li>
         <ul>
