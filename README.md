@@ -177,5 +177,7 @@
             <li><a href="https://marcusvilasboas.github.io/projeto-cordel/index.html" target="_blank" class="externo">Abrir o site do projeto Cordel de Milton Duarte - Desafio 12</a></li>
 
             <li><a href="https://marcusvilasboas.github.io/projeto-social/index.html" target="_blank" class="externo">Abrir o site do projeto Redes Sociais</a></li>
+
+            <li><a href="https://marcusvilasboas.github.io/projeto-login/index.html" target="_blank" class="externo">Abrir o site do projeto Tela de Login</a></li>
         </ul>
 </ul>
